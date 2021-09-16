@@ -1,3 +1,4 @@
+#standardSQL
 CREATE OR REPLACE MODEL bike_time.bike_duration2
     OPTIONS (model_type='linear_reg', labels=['duration_minutes']) AS
     SELECT 
