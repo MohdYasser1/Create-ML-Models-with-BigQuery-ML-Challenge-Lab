@@ -1,3 +1,4 @@
+#standardSQL
 SELECT 
     start_station_name,
     COUNT (*) AS trips,
