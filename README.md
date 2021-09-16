@@ -13,4 +13,11 @@ With BigQueryML the goal of the lab was making two Machine Learning Models with 
 
 <b> Query.sql </b> This SQL file was used to query Google's dataset to check the busiest station to complete task 4.
 
+<b> Predict with Model 2.sql </b> This file predicts the average rip length for trips from the busiest bike sharing station in 2019 where the subscriber type is Single Trip. (Task 4)
+
+After finishing the Lab with a perfect score I got a badge from google to regonize my achievement.
+### The Bage: https://google.qwiklabs.com/public_profiles/3f648623-1064-4781-9988-2df7708d937e/badges/1169968
+
+Note: I know this isn't the best way to make a machine learning model but it is definitely the start of my Machine Learning learning path and possibly carrer 😉.
+
 
