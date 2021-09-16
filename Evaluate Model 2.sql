@@ -1,3 +1,4 @@
+#standardSQL
 SELECT
     SQRT(mean_squared_error) AS rmse,
     mean_absolute_error
